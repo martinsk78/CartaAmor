@@ -1,4 +1,4 @@
-import { useState, useEffect, useRef, useMemo } from "react";
+import { useState, useEffect, useMemo } from "react";
 
 // ── Reemplaza estas rutas con tus fotos reales 
 // ──────────────────────────────
