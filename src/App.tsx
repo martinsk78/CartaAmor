@@ -331,7 +331,6 @@ export default function App() {
   const { days, hours, minutes, seconds, totalSeconds } = useTimer();
   const [roseClicked, setRoseClicked] = useState(false);
   const [showMessage, setShowMessage] = useState(false);
-  const audioRef = useRef<HTMLAudioElement>(null);
 
 
   
